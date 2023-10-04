@@ -2,7 +2,7 @@
 
 ## name. why?
 - **Kataria anisodonta**, the oldest known ancestor of today's pythons
-- [**Katari**](https://en.wikipedia.org/wiki/Amaru_(mythology) ([aymara](https://en.wikipedia.org/wiki/Aymara_language)), a winged mythological snake
+- [**Katari**](https://en.wikipedia.org/wiki/Amaru_(mythology)) ([aymara](https://en.wikipedia.org/wiki/Aymara_language)), a winged mythological snake
 
 ## library. why?
 
